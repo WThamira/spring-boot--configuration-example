@@ -1,2 +1,5 @@
 message:
   greeting: Hello from Local!
+
+server:
+  port: 8980
